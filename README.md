@@ -27,3 +27,16 @@ settings.json should be
 ```
 get your self an api key at:
 https://stripe.com/
+
+
+## using the example
+
+from the stripe docs: https://stripe.com/docs/tutorials/checkout
+for fake card data to test with
+
+```
+Any random, syntactically valid email address (the more random, the better)
+One of Stripe's test card numbers, such as 4242 4242 4242 4242
+Any three digit CVC code
+Any expiration date in the future
+```
