@@ -56,4 +56,4 @@ Any three digit CVC code
 Any expiration date in the future
 ```
 the recurring payments example has no UI to show that it has worked,
-to confirm look in /subscriptions of your stripe account
+to confirm look in /subscriptions of your stripe account conformation
