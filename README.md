@@ -55,3 +55,5 @@ One of Stripe's test card numbers, such as 4242 4242 4242 4242
 Any three digit CVC code
 Any expiration date in the future
 ```
+the recurring payments example has no UI to show that it has worked,
+to confirm look in /subscriptions of your stripe account
