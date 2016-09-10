@@ -3,7 +3,11 @@ example of payments with stripe
 
 
 ## Before you start
-Never, EVER send credit card data to your server. You have been warned
+Never, EVER send credit card data to your server.
+
+[use tokens](https://stripe.com/docs/api/node#tokens)
+
+You have been warned
 
 ## Creating a settings file
 
