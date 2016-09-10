@@ -54,8 +54,8 @@ Statement description:test bronze
 
 ## using the example
 
-from the stripe docs: https://stripe.com/docs/tutorials/checkout
-for fake card data to test with
+[card data to test with from stripe docs](https://stripe.com/docs/tutorials/checkout)
+
 
 ```
 Any random, syntactically valid email address (the more random, the better)
