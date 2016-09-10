@@ -11,7 +11,6 @@ Template.purchase.events({
         panelLabel: 'Pay Now',
         token: function(res) {
           stripeToken = res.id;
-          console.info(res);
           Meteor.call('chargeCard', stripeToken);
         }
       });
