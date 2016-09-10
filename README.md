@@ -34,7 +34,7 @@ settings.json should be
 
 ```
 get your self an api key at:
-https://stripe.com/
+[https://stripe.com/]
 
 
 you will need to make a plan for the reoccurring payments
