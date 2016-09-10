@@ -1,6 +1,10 @@
 # curly-octo-sniffle
 example of payments with stripe
 
+
+## Before you start
+Never, EVER send credit card data to your server. You have been warned
+
 ## Creating a settings file
 
 This won't work without a file called settings.json in the main folder.
